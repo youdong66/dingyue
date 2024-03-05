@@ -11,7 +11,6 @@ let addresses = [
  'icook.hk:8443#官方优选',
  'skk.moe:443#官方优选',
  'cloudflare.cfgo.cc:2053#官方优选',
-
 ];
 
 // 设置优选地址api接口
