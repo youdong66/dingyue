@@ -5,12 +5,10 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
-	'cfip.x0000occx.tk:8443#官方优进-OTC',
 	'cf.090227.xyz:2087#官方优迭-CM',
 	'icook.tw:2096#官方优选',
  'icook.hk:8443#官方优选',
  'skk.moe:443#官方优选',
- 'cloudflare.cfgo.cc:2053#官方优选',
 ];
 
 // 设置优选地址api接口
