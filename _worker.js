@@ -12,7 +12,7 @@ let addresses = [
 	'icook.tw:2096#官方优选',
  'icook.hk:8443#官方优选',
  'skk.moe:443#官方优选',
-'cfip.x0000occx.tk:8443#官方优进-OTC',
+'www.sxszslb.com:8443#官方优进-OTC',
 'www.6666av.vip',
 'cloudflare.cfgo.cc:2053#官方优选'
 ];
