@@ -8,7 +8,7 @@ let addresses = [
   'www.visa.com.hk:2096',
   'v1.arvancode.eu.org:443',
   'series-a1.samanehha.co:443',
-  'ty11t.twty.dynu.net:13761'
+  'ty11t.twty.dynu.net:443'
 ];
 
 // 设置优选地址api接口
