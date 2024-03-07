@@ -8,7 +8,7 @@ let addresses = [
     'www.visa.com.hk:2096',
    'icook.tw:2053',
    'cloudflare.cfgo.cc',
-  	'www.glassdoor.com',
+'www.glassdoor.com',
    'www.6666av.vip',
   'www.digitalocean.com#卫东优选'
 ];
