@@ -8,13 +8,9 @@ let addresses = [
   'www.visa.com.hk:2096',
   'icook.tw:2053',
   'cloudflare.cfgo.cc',
-	'cf.090227.xyz:2087#官方优迭-CM',
-	'icook.tw:2096#官方优选',
- 'icook.hk:8443#官方优选',
- 'skk.moe:443#官方优选',
-'www.sxszslb.com:8443#官方优进-OTC',
+	'www.glassdoor.com',
 'www.6666av.vip',
-'cloudflare.cfgo.cc:2053#官方优选'
+'www.digitalocean.com#卫东优选'
 ];
 
 // 设置优选地址api接口
