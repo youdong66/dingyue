@@ -5,7 +5,9 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
-  'ty11t.twty.dynu.net:443'
+   'www.visa.com.hk:2096',
+  'v1.arvancode.eu.org:443',
+  'series-a1.samanehha.co:443',
 ];
 
 // 设置优选地址api接口
