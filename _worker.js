@@ -4,7 +4,7 @@
 let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
-let addresses = [
+let addresses =[
   'ty11t.twty.dynu.net:13761'，
 ];
 
