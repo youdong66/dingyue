@@ -6,7 +6,7 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
    'www.visa.com.hk:2096',
-  'www.52ysys.net'
+  'www.52ysys.net:8443'
 ];
 
 // 设置优选地址api接口
