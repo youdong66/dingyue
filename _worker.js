@@ -36,7 +36,7 @@ let proxyIPs = [
 	'proxyip.vultr.fxxk.dedyn.io',
 ];
 let CMproxyIPs = [
-	{ proxyIP: "proxyip.fxxk.dedyn.io", type: "HK" },
+	{ proxyIP: "kht07.vip", type: "HK" },
 ];
 let BotToken ='';
 let ChatID =''; 
